@@ -3,3 +3,5 @@ git diff (check differences)
 git add <filename> (adds file to commit)
 git commit -m <notes>(commits changes to local master)
 git push origin master (pushes local master to the remote github page named origin)
+
+test
